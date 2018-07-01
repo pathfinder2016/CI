@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @EnableAutoConfiguration
-public class Controller {
+public class LoginController {
 
     @RequestMapping("/login")
     String login(){
