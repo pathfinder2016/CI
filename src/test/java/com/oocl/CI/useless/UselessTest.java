@@ -12,6 +12,6 @@ public class UselessTest {
 
     @Test
     public void should_test_failure() {
-        Assert.assertEquals("a", "A_3");
+        Assert.assertEquals("a", "A_4");
     }
 }
